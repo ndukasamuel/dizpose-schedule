@@ -181,9 +181,9 @@ footer {
         line-height: 24px !important;
     }
 
-    .btn {
-        width: 100% !important;
-    }
+    /* .btn {
+        width: none !important;
+    } */
 }
 @media(max-width: 376px) {
     .main-section {
@@ -211,7 +211,7 @@ footer {
         font-weight: regular;
         line-height: 36px;
     }
-* {
+/* * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -397,8 +397,9 @@ footer {
     }
 
     .btn {
-        width: 100% !important;
+        width: 0% !important;
     }
+
 }
 @media(max-width: 376px) {
     .main-section {
@@ -426,4 +427,4 @@ footer {
         font-weight: regular;
         line-height: 36px;
     }
-}
+} */
